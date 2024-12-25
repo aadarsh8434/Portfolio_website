@@ -32,5 +32,10 @@ This repository contains the source code for a personal portfolio website. The s
 
 4.Open the index.html file in your browser or serve the project using a local server.
 
+**Screenshot**
 
+
+
+
+![Screenshot (543)](https://github.com/user-attachments/assets/25af855e-200d-41eb-b3a7-ea508129f82c)
 
